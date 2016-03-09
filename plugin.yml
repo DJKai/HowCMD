@@ -1,0 +1,15 @@
+name: How
+description: How to play your server
+author: DJKaiMc
+main: DJK\how\Main
+load: POSTWORLD
+version: 1.0.1
+api: [1.8.0]
+commands:
+    how:
+        usage: /how
+        description: §eHow to play!
+permissions:
+    djkai.how:
+        default: true
+        description: Allows user to use /how

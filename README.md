@@ -1,2 +1,7 @@
-# HowCMD
-PocketMine-MP Plugin on how to play your server!
+# Simple way to inform your players how to play!
+
+Commands:
+/how - Displays message
+
+Perms:
+djkai.how
